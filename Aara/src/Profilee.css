@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient(135deg, #FAB2FF 10%, #1904E5 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+  }
+  
+.sec_card
+{
+    margin-right: 2%;
+}
+
+.first_card
+
+{
+    margin-right: 2%;
+}
+
+.seconds_card
+{
+    margin-top: 1%;
+}
+
+.sec_cardd
+{
+    width: 65%;
+}
+
+.colls
+{
+    width: 60%;
+   
+}
+
+.card1,.card2
+{
+    margin-right: 7%;
+    background-color: black;
+}
+
+
+.card{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+/* .navigtion
+{
+    background-image: linear-gradient(135deg, #FAB2FF 10%, #1904E5 100%);
+} */

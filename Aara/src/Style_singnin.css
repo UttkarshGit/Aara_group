@@ -1,0 +1,32 @@
+/*  */
+.diss
+{
+    border: 2px solid white;
+}
+
+.cont
+{
+    background-color: black;
+    color: white;
+}
+
+.left
+{
+    width: 90%;
+}
+
+.box-form
+{
+    height: 500px;
+}
+
+.social-container
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.social-container svg
+{
+    margin-left: 5%;
+}
